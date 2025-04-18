@@ -14,6 +14,9 @@
 <p align="center">
   I enjoy coding, learning new things, exploring new technologies, and solving real-world problems. I love joining new communities and keeping up with new technological developments, with a particular interest in AI and game design.
 </p>
+<p align="center">
+  Let's get in touch and stay connected! <br/><br/>
+</p>
 
 ## 🚀 Language and Tools
 <p align="center">
@@ -25,6 +28,5 @@
 ## Github Stats
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanshd&theme=omni&layout=compact" align="left" width="400" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osmantefo&theme=dark&hide_border=false" align="right" width="500" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osmantefo&theme=dark&hide_border=false" align="right" width="400" height="200"/>
 </div>
-
