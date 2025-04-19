@@ -18,7 +18,7 @@
   Let's get in touch and stay connected! <br/><br/>
 </p>
 
-## 🚀 Language and Tools
+## 🚀 Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,js,css,mysql,react,git,vscode,eclipse,ps,linux," />
@@ -28,5 +28,5 @@
 ## Github Stats
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanshd&theme=omni&layout=compact" align="left" width="400" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osmantefo&theme=dark&hide_border=false" align="right" width="400" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osmantefo&theme=dark&hide_border=true" align="right" width="400" height="200"/>
 </div>
